@@ -8,9 +8,9 @@ Project Overview
 This project analyzes Ola ride data to uncover patterns in bookings, revenue, cancellations, and customer ratings. The dashboard provides interactive visuals to help understand business performance and improve decision-making for ride services.
 ________________________________________
 Tools & Technology
-•	Power BI – Data visualization and dashboard creation
-•	Power Query – Data cleaning and transformation
-•	Microsoft Excel – Data storage and initial preprocessing
+1. Power BI – Data visualization and dashboard creation
+2. Power Query – Data cleaning and transformation
+3. Microsoft Excel – Data storage and initial preprocessing
 ________________________________________
 Data Description
 •	Source: July ride dataset (Excel format)
@@ -37,9 +37,9 @@ Steps to Reproduce
 ________________________________________
 Key Insights
 
-•	Peak booking periods identified for targeted promotions.
-•	Certain vehicle types generate higher revenue consistently.
-•	Customer-initiated cancellations form a significant portion of lost rides.
-•	Ratings indicate service satisfaction trends that correlate with vehicle type.
+1. Peak booking periods identified for targeted promotions.
+2. Certain vehicle types generate higher revenue consistently.
+3. Customer-initiated cancellations form a significant portion of lost rides.
+4. Ratings indicate service satisfaction trends that correlate with vehicle type.
 
 
