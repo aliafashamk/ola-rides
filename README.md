@@ -36,6 +36,7 @@ Steps to Reproduce
 5.	Interaction: Add filters for vehicle types, booking status, and date range.
 ________________________________________
 Key Insights
+
 •	Peak booking periods identified for targeted promotions.
 •	Certain vehicle types generate higher revenue consistently.
 •	Customer-initiated cancellations form a significant portion of lost rides.
